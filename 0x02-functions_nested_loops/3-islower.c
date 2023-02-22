@@ -2,7 +2,7 @@
 /**
  * _islower - main function
  *
- * c: lowercase character
+ * @c: lowercase character
  *
  * Return: 1 if true, 0 if false
  *

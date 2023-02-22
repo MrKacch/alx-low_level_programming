@@ -2,7 +2,7 @@
 /**
  * _isalpha -function
  *
- * c: our  comparism
+ * @c: our  comparism
  *
  * Return: 1 if true, 0 if false
  *
