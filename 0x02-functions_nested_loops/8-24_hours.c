@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *@jack_bauer:  the boss man
+ *jack_bauer - the boss man
  *
  */
 void jack_bauer(void)
